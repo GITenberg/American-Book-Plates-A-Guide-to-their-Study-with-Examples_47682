@@ -1,10 +1,16 @@
 _repo: American-Book-Plates-A-Guide-to-their-Study-with-Examples_47682
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47682-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Allen, Charles Dexter
     gutenberg_agent_id: '44425'
     url: http://www.gutenberg.org/2009/agents/44425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47682#American-Book-Plates-A-Guide-to-their-Study-with-Examples
 gutenberg_issued: '2014-12-17'
 gutenberg_type: Text
 identifiers:
